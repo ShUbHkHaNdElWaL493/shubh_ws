@@ -1,6 +1,6 @@
 # Bot Simulation
 
-This is a project focused on developing a bot for simulations in Gazebo Sim.
+This is a project focused on developing a bot for simulations in Gazebo.
 
 ## Features
 
@@ -14,7 +14,7 @@ This is a project focused on developing a bot for simulations in Gazebo Sim.
 - **Python**
 - **ROS2 Jazzy**
 - **Rviz2**
-- **Gazebo Sim Harmonic**
+- **Gazebo Classic**
 
 ## Getting Started
 
@@ -22,7 +22,7 @@ This is a project focused on developing a bot for simulations in Gazebo Sim.
 
 - Python 3.x
 - ROS2 Jazzy
-- Gazebo Sim Harmonic
+- Gazebo Classic
 
 ### Installation
 
@@ -33,7 +33,7 @@ This is a project focused on developing a bot for simulations in Gazebo Sim.
 
 2. Navigate to the project directory:
    ```bash
-   cd shubh_ws/gz_sim
+   cd shubh_ws/gazebo
    ```
 
 3. Build the project using colcon build:
