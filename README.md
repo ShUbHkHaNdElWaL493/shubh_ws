@@ -1,6 +1,6 @@
 # Bot Simulation
 
-This is the Gazebo Sim variation of the project.
+This is a project focused on developing a bot for simulations.
 
 ## Features
 
@@ -14,7 +14,7 @@ This is the Gazebo Sim variation of the project.
 - **Python**
 - **ROS2 Jazzy**
 - **Rviz2**
-- **Gazebo Sim Harmonic**
+- **Gazebo OR Gazebo Sim Harmonic**
 
 ## Getting Started
 
@@ -26,11 +26,19 @@ This is the Gazebo Sim variation of the project.
 
 ### Installation
 
-Build the project using colcon build:
+1. Clone the repository:
    ```bash
-   colcon build
+   git clone https://github.com/ShUbHkHaNdElWaL493/shubh_ws.git
+   ```
+
+2. Navigate to the project directory according to your preferred Gazebo version:
+   ```bash
+   cd shubh_ws/gz_sim
+   ```
+   ```bash
+   cd shubh_ws/gazebo
    ```
 
 ### Usage
 
-The usage of each package has been described within the package itself.
+Each Gazebo version describes their own further steps.

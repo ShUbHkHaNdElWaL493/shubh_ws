@@ -1,6 +1,6 @@
 # Bot Simulation
 
-This is a project focused on developing a bot for simulations in Gazebo.
+This is the Gazebo variation of the project.
 
 ## Features
 
@@ -26,17 +26,7 @@ This is a project focused on developing a bot for simulations in Gazebo.
 
 ### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ShUbHkHaNdElWaL493/shubh_ws.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd shubh_ws/gazebo
-   ```
-
-3. Build the project using colcon build:
+Build the project using colcon build:
    ```bash
    colcon build
    ```
